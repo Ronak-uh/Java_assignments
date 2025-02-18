@@ -16,7 +16,7 @@ class ConstructorChaining extends demo
 {
     ConstructorChaining(int a)
     {
-        super(a);
+        super(30);
     }
 
     public static void main(String[] args)
