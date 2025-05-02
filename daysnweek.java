@@ -11,4 +11,5 @@ public class daysnweek {
         String result = convertDaysToWeeks(days);
         System.out.println(result);
     }
+
 }
